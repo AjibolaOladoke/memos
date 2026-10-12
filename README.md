@@ -6,7 +6,7 @@ We keep a working index for product and engineering, and memos is the entry that
 
 ## Images
 
-[![memos](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![memos](images/preview.png)](https://github.com/Swift-Tech-Co/memos)
 
 ## Why Memos?
 
@@ -47,10 +47,10 @@ Read the docs, join [Telegram](https://t.me/+Qt_eFvkb2rliMzNh), or ask in GitHub
 
 ## Star History
 
-<a href="https://www.swifttechco.com">
+<a href="https://github.com/Swift-Tech-Co/memos">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.swifttechco.com" />
-    <source media="(prefers-color-scheme: light)" srcset="https://www.swifttechco.com" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Swift-Tech-Co/memos" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Swift-Tech-Co/memos" />
     
   </picture>
 </a>
@@ -69,13 +69,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/memos
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [usememos/memos](https://github.com/usememos/memos) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
